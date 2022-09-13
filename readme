@@ -1,7 +1,7 @@
-echo "# SknChgrGC2312" >> README.md
+echo "# RzxHp3X39231" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/zSniiKeR/SknChgrGC2312.git
+git remote add origin https://github.com/zSniiKeR/RzxHp3X39231.git
 git push -u origin main
