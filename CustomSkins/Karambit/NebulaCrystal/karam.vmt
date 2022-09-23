@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture" "unknwn\weapons\v_models\knife_karam\karam"
+	"$phongexponenttexture" "unknwn\weapons\v_models\knife_karam\karam_exponent"
+	//"$phong" "1"
+	//"$phongboost" "26"
+	//"$phongalbedoboost" "40"
+	//"$phongfresnelranges" "[.8 .8 1]"
+	//"$phongexponenttexture" "models\weapons\v_models\knife_karam\karam_ao"
+	
+	 
+	//"$basemapalphaphongmask" "1"
+
+	//"phongintensity"		"26"	
+	
+	//"$phongdisablehalflambert" "1"
+}
+
