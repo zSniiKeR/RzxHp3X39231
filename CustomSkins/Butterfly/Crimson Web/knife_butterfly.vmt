@@ -1,11 +1,11 @@
 
 "VertexLitGeneric"
 {
-		"$baseTexture" "unknwn\weapons\v_models\knife_butterfly\ct\knife_butterfly"
+		"$baseTexture" "unknwn\weapons\v_models\knife_butterfly\knife_butterfly"
 	
 	"$phongalbedotint" "1"
 	"$phongdisablehalflambert" "1"
-		"$phongexponenttexture" "unknwn\weapons\v_models\knife_butterfly\ct\knife_butterfly_exponent"
+		"$phongexponenttexture" "unknwn\weapons\v_models\knife_butterfly\knife_butterfly_exponent"
 	"$phong" "1"
 	"$phongboost" "9"
 	"$phongfresnelranges" "[.3 0.5 1]"
