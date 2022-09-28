@@ -6,13 +6,13 @@
 	"$phongdisablehalflambert" "1"
 	"$phong" "1"
 	"$phongexponent" "34"
-	//"$phongboost" "34"
+	"$phongboost" "34"
 	//"$phongfresnelranges" "[.3 0.5 1]"
 	"$phongalbedoboost" "80"
 	
 
 	
 	 
-	//"$basemapalphaphongmask" "1"
+	"$basemapalphaphongmask" "1"
 }
 
