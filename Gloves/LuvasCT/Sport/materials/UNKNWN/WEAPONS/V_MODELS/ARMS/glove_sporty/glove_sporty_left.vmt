@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture"              "unknwn\weapons\v_models\arms\glove_hardknuckle\glove_sporty"
+        "$phongexponenttexture"     "models\weapons\v_models\arms\glove_sporty\glove_sporty_exponent"
+	"$bumpmap"                  "models\weapons\v_models\arms\glove_sporty\glove_sporty_normal"
+	"$phong"                "1"
+	"$phongboost"           "1.9"
+	"$phongtint"            "[.5 .5 .5]"
+	"$phongfresnelranges"   "[.5 .6 0.7]"
+	"$rimlight"             "1"
+	"$rimlightexponent"     "9"
+	"$rimlightboost"        ".2"
+	"$rimmask"              1
+}
