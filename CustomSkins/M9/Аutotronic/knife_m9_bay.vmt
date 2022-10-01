@@ -2,7 +2,6 @@
 {
 	"$baseTexture" "unknwn\weapons\v_models\knife_m9_bay\knife_m9_bay"
 	"$phongexponenttexture" "unknwn\weapons\v_models\knife_m9_bay\knife_m9_bay_exponent"
-	"VertexLitGeneric"
 	"$phongalbedotint" "1"
 	"$phongdisablehalflambert" "1"
 	
