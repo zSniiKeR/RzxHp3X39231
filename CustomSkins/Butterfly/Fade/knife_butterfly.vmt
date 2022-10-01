@@ -7,7 +7,7 @@
 	"$phongalbedoboost" "10"
         "$phongexponent" "14"
 	"$phongfresnelranges"   "[.61 .61 .61]"
-	"$phongexponenttexture" "models\weapons\v_models\knife_butterfly\knife_butterfly_exponent"
+	"$phongexponenttexture" "unknwn\weapons\v_models\knife_butterfly\knife_butterfly_exponent"
 	"$basemapalphaphongmask" "1"
 	"$phongalbedotint" "1"
 
