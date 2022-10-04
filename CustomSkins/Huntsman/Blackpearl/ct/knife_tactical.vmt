@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
-	$basetexture "unknwn\weapons\v_models\knife_tactical\knife_tactical"
-	"$phongexponenttexture" 	"unknwn\weapons\v_models\knife_tactical\knife_tactical_exponent"
+	$basetexture "unknwn\weapons\v_models\knife_tactical\ct\knife_tactical"
+	"$phongexponenttexture" 	"unknwn\weapons\v_models\knife_tactical\ct\knife_tactical_exponent"
 	"$phong" "1"
 	"$phongexponent" "25"
 	"$phongboost" "50"
