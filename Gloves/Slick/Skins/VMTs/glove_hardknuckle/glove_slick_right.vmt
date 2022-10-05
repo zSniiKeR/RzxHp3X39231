@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+	"$basetexture"            models/weapons/v_models/arms/glove_slick/glove_slick_color
+ 	"$bumpmap"                models/weapons/customization/glove_slick/glove_slick_normal
+	"$phongwarptexture"       models/weapons/customization/materials/material_specwarp
+	"$normalmapalphaenvmapmask"       1
+	"$phong"             1
+	"$phongboost"             2
+}
