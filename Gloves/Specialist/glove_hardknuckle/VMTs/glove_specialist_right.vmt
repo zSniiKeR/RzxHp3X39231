@@ -1,7 +1,7 @@
 "vertexlitgeneric"
 
 {              
-	$basetexture			unknwn\weapons\v_models\arms\glove_hardknuckle\glove_sporty
+	$basetexture			unknwn\weapons\v_models\arms\glove_hardknuckle\glove_specialist
 
 	$bumpmap			models\weapons\customization\glove_specialist\glove_specialist_normal
 	$phongwarptexture			models\weapons\customization\materials\material_specwarp
