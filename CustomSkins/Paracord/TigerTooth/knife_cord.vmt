@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture"             "unknwn/weapons/v_models/knife_cord/knife_cord"
+	"$phongexponenttexture"    "unknwn/weapons/v_models/knife_cord/knife_cord_exponent"
+    "$phong" "1" 
+    "$phongboost" "60" 
+    "$phongfresnelranges" "[.83 .83 1]" 
+    "$basemapalphaphongmask" "1" 
+    "$phongalbedotint" "1" 
+    "$phongexponentfactor" "30"
+}
