@@ -2,12 +2,21 @@
 {
 	"$baseTexture" "unknwn\weapons\v_models\knife_m9_bay\knife_m9_bay"
 	"$phongexponenttexture" "unknwn\weapons\v_models\knife_m9_bay\knife_m9_bay_exponent"
-	"$phongalbedotint" "1"
-	"$phongdisablehalflambert" "1"
-	
-	"$phongfresnelranges" "[.2 0.5 1]"
+	"$phong" "1"
+        "$phongalbedotint" "1"
+        "$bumpmap" "models\weapons\customization\paints\gunsmith\m9_bay_future_normal.vtf"
+	"$phongdisablehalflambert" "5"
+        "$phongexponent"		"80"
+	"$phongintensity"		"8"
+        "$phongalbedoboost"		"80"
+	"$phongfresnelranges" "[.51 .51 1]"
 	"$basemapalphaphongmask" "1"
 }
+
+
+
+
+
 
 
 
