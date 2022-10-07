@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "unknwn\weapons\v_models\knife_bayonet\ct\knife_bayonet"
+	"$phongexponenttexture" "unknwn\weapons\v_models\knife_bayonet\ct\knife_bayonet_exponent"
+	"$phong" "1"
+	"$phongboost" "8"
+	"$phongfresnelranges" "[.8 0.5 1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint"		                        "1" 
+	"$phongalbedoboost" 	                        "70"
+}
