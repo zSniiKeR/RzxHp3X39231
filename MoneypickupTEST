@@ -1,0 +1,30 @@
+function Trainer.AddCash()    
+local playerPed = PLAYER.PLAYER_PED_ID()    
+local player = PLAYER.GET_PLAYER_PED(playerPed)    
+local playerExists = ENTITY.DOES_ENTITY_EXIST(playerPed)     
+if (playerExists) then    
+local playerPosition = ENTITY.GET_ENTITY_COORDS(PLAYER.PLAYER_PED_ID(), false)         
+OBJECT.CREATE_AMBIENT_PICKUP(GAMEPLAY.GET_HASH_KEY("PICKUP_MONEY_MED_BAG"), playerPosition.x, playerPosition.y, playerPosition.z, 0, 500000, 1, false, true)		 
+Trainer.updateMenus("Cash Added", nil)	
+	end
+end
+
+And spawn cash only:
+
+local cash = {}function cash.unload()endfunction cash.init()endfunction cash.tick()    
+local playerPed = PLAYER.PLAYER_PED_ID()    local player = PLAYER.GET_PLAYER_PED(playerPed)    
+local playerExists = ENTITY.DOES_ENTITY_EXIST(playerPed)     
+if (get_key_pressed(Keys.YOURFAVOURITEKEYHERE)) and (playerExists) then    
+local playerPosition = ENTITY.GET_ENTITY_COORDS(PLAYER.PLAYER_PED_ID(), false)         
+OBJECT.CREATE_AMBIENT_PICKUP(GAMEPLAY.GET_HASH_KEY("PICKUP_MONEY_MED_BAG"), playerPosition.x, playerPosition.y, playerPosition.z, 0, 40000, 1, false, true)	 
+end
+end
+return cash
+
+And here are the names for the pickups:
+
+PICKUP_MONEY_VARIABLEPICKUP_MONEY_CASEPICKUP_MONEY_WALLETPICKUP_MONEY_PURSEPICKUP_MONEY_DEP_BAGPICKUP_MONEY_MED_BAGPICKUP_MONEY_PAPER_BAGPICKUP_MONEY_SECURITY_CASE
+
+HASH's site
+
+https://nitanmarcel.github.io/shvdn-docs.github.io/namespace_g_t_a.html
