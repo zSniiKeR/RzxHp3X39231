@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture"	"unknwn\weapons\v_models\snip_awp\awp"
+	"$phongexponenttexture" 	"unknwn\weapons\v_models\snip_awp\awp_exponent"
+	"$phong" "1"
+	"$phongboost" "71"
+	"$phongalbedoboost" "10"
+        "$phongexponent" "12"
+	"$phongfresnelranges" "[.66 .66 .66]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "5"
+
+}
