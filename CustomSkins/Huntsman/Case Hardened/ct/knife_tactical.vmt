@@ -1,9 +1,9 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "unknwn\weapons\v_models\knife_tactical\knife_tactical"
+	"$baseTexture" "unknwn\weapons\v_models\knife_tactical\ct\knife_tactical"
 	"$phongalbedotint" "1"
 	"$phongdisablehalflambert" "1"
-	"$phongexponenttexture" "unknwn\weapons\v_models\knife_tactical\knife_tactical_exponent"
+	"$phongexponenttexture" "unknwn\weapons\v_models\knife_tactical\ct\knife_tactical_exponent"
 	"$phong" "1"
 	"$phongboost" "160"
 	"$phongfresnelranges" "[.3 0.5 1]"
