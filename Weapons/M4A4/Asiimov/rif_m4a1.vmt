@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	"$basetexture"	"unknwn\weapons\v_models\rif_m4a1\rif_m4a1"
+	"$phongexponenttexture" "unknwn\weapons\v_models\rif_m4a1\rif_m4a1_exponent"
+	//"$bumpMap"	"models\weapons\v_models\rif_m4a1\rif_m4a1_normal"
+	$nocull 			1
+	$phong                     	1
+	$phongboost            	25
+	$phongfresnelranges         	"[5 10 10]"
+	$phongalbedotint		1
+	$phongalbedoboost		14
+	$envmaptint                 	"[.045 .065 .080]"
+	$basetexturealphaenvmapmask   1
+
+
+}
