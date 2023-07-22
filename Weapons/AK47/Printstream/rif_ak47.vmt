@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"          "unknwn\weapons\v_models\rif_ak47\ak47"
+	"$phongexponenttexture" "unknwn\weapons\v_models\rif_ak47\ak47_exponent"
+	"$normalmap"            "unknwn\weapons\v_models\rif_ak47\ak47_normal"
+	"$phong" "1"
+	"$phongexponent" "80"
+	"$phongalbedoboost" "5"
+	"$phongboost" "5"
+	"$phongalbedoboost" "5"
+	"$phongfresnelranges" "[.83 .83 1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+}
