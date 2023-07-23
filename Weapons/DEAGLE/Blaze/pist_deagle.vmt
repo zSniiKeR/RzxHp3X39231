@@ -3,15 +3,20 @@ VertexLitGeneric
 {
 	"$baseTexture" "unknwn/weapons/v_models/pist_deagle/pist_deagle"
 
-	"$phong" "1"
-	"$phongboost" "1"
-	"$phongalbedoboost" "50"
-	"$phongfresnelranges" "[.8 .8 1]"
-//	"$phongexponent" 12
 	"$phongexponenttexture" "unknwn/weapons/v_models/pist_deagle/pist_deagle_exponent"
+	"$color2" "[1 1 1]"
+	$blendtintbybasealpha "1"
+	$blendTintColorOverBase  "0"
+
+	"$phong" "1"
+	"$phongboost" "30"
+	"$phongalbedoboost" "30"
+	"$phongfresnelranges" "[1 1 1]"
 
 	"$basemapalphaphongmask" "1"
+	"$basemapluminancephongmask" "1"
+	"$shadersrgbread360" "1"
 
 	"$phongalbedotint" "1"
-	"$phongdisablehalflambert" "1"
+	"$phongdisablehalflambert" "5"
 }
