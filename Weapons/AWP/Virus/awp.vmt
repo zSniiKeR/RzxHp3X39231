@@ -1,6 +1,6 @@
 VertexLitGeneric
 {
-	"$basetexture"	        "unknwn\weapons\v_models\snip_awp\snip_awp"
+	"$basetexture"	        "unknwn\weapons\v_models\snip_awp\awp"
 	"$phongexponenttexture" "unknwn\weapons\v_models\snip_awp\awp_exponent"
 	"$bumpmap"              "unknwn\weapons\v_models\snip_awp\awp_normal"
 	"$phong" "1"
